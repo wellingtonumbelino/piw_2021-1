@@ -1,2 +1,2 @@
-# Packages #
-.node_modules
+#Ignorando tudo na pasta node_modules#
+node_modules/
