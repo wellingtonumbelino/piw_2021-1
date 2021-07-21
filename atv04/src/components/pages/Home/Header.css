@@ -1,0 +1,19 @@
+.header-content {
+  display: flex;
+  align-items: center;
+  padding: 7px;
+  background-color: white;
+}
+
+.header-content img {
+  margin-right: auto;
+  width: 150px;
+}
+
+.header-content .header-right{
+  margin-left: auto;
+}
+
+.header-content .header-right button{
+  margin: 5px;
+}

@@ -1,0 +1,39 @@
+.cards {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 15px;
+  width: 100%;
+  height: 150px;
+  background-color: blue;
+  border-radius: 5px;
+}
+
+.card-content button {
+  width: 100px;
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+.card-content .title {
+  font-size: 30px;
+  color: white;
+  margin-left: 20px;
+}
+
+.card-content .description {
+  color: aliceblue;
+  margin-left: 150px;
+}
+
+.card-content .likes{
+  margin-left: 20px;
+  color: rgb(209, 204, 204);
+}
