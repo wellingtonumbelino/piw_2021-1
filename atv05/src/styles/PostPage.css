@@ -1,0 +1,29 @@
+.content-post .link {
+  display: flex;
+  background-color: #6c757d;
+  border-radius: 3px;
+  width: 90px;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.content-post .link:hover {
+  background-color: #555555;
+  border: 1px solid #6c757d;
+}
+
+.content-post .link:active {
+  background-color: #9d9fa1;
+}
+
+.content-post .link a {
+  text-decoration: none;
+  color: white;
+}
+
+.content-post .link a:hover {
+  color: white;
+}
