@@ -1,0 +1,28 @@
+.content {
+  width: 400px;
+}
+
+.form-register-user {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-register-user input {
+  margin-top: 10px;
+  height: 40px;
+  border-radius: 3px;
+  border: 1px solid #949393;
+}
+
+.input-submit {
+  background-color: blue;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 18px;
+}
+
+.input-submit:hover {
+  background-color: rgb(3, 3, 98);
+}
